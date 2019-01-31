@@ -1,0 +1,4 @@
+10:21:20.093000 == Info: Could not resolve host: firstname=boolean&lastname=world
+10:21:20.093000 == Info: Closing connection 0
+10:21:20.109000 == Info: Could not resolve host: httpbin.org
+10:21:20.109000 == Info: Closing connection 1
